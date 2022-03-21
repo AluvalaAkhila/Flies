@@ -8,4 +8,6 @@ black
 brown
 maroon
 red
-
+ yellow
+ violet
+ 
